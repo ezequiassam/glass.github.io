@@ -1,0 +1,5 @@
+projectKey=google:glass
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/google:glass
+ceTaskId=AVr7Q7sVqYweBiQNCn6N
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVr7Q7sVqYweBiQNCn6N
